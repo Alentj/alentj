@@ -14,10 +14,8 @@
 ![Alen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alentj&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alentj&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alentj&theme=tokyonight)
-### 🛠️ Tech Stack:
+### 🛠️ Learned:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/alentj/alentj/blob/output/github-contribution-grid-snake.svg)
