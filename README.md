@@ -1,8 +1,11 @@
 
 # 👋 Hi, I'm Alen!
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevdoc.hashnode.dev%2Fcrafting-an-impressive-github-profile-a-guide-for-aspiring-developers&psig=AOvVaw2sumpVQXYeTFehQRMTGDWs&ust=1739553021557000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDWl5OSwYsDFQAAAAAdAAAAABAE" width="500">
+ <img src="https://github.com/Alentj/alentj/raw/main/aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa.gif" width="400px">
 </p>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ### 🚀 Web Developer | IoT Enthusiast | CSE Student
 - 🔭 Currently working on **Voice-Controlled Wheelchair**
@@ -28,3 +31,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
