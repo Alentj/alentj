@@ -1,4 +1,9 @@
+
 # 👋 Hi, I'm Alen!
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevdoc.hashnode.dev%2Fcrafting-an-impressive-github-profile-a-guide-for-aspiring-developers&psig=AOvVaw2sumpVQXYeTFehQRMTGDWs&ust=1739553021557000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDWl5OSwYsDFQAAAAAdAAAAABAE" width="500">
+</p>
+
 ### 🚀 Web Developer | IoT Enthusiast | CSE Student
 - 🔭 Currently working on **Voice-Controlled Wheelchair**
 - 🌱 Learning **JavaScript, Arduino, and Web Development**
@@ -10,6 +15,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/alentj)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alen.tj_/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
+### 💡 Quote of the Day:
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
 ### 📊 GitHub Stats:
 ![Alen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alentj&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alentj&layout=compact&theme=tokyonight)
