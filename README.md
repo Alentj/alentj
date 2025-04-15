@@ -8,7 +8,7 @@
 
 
 ### 🚀 Web Developer | IoT Enthusiast | CSE Student
-- 🔭 Currently working on **Voice-Controlled Wheelchair** for my Clg Project
+- 🔭 Was a part of **Voice-Controlled Wheelchair Project** 
 - 🌱 Learning **JavaScript, Arduino,Web Development & etc**
 - 🎯 Setting the Goal :**Build a full-stack project & explore AI**
 - 💬 Ask me about **Arduino, Web Dev & IoT Projects**
