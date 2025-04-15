@@ -16,7 +16,7 @@
 ### 📫 Connect with me:
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/alentj)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alen.tj_/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alen-tj)
 ### 💡 Quote of the Day:
 
 > "The only way to do great work is to love what you do." - Steve Jobs
