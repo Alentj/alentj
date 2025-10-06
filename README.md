@@ -8,6 +8,7 @@
 
 
 ### 🚀 Web Developer | IoT Enthusiast | CSE Student
+- 🔭 Working on  **Deepfake Project** 
 - 🔭 Was a part of **Voice-Controlled Wheelchair Project** 
 - 🌱 Learning **JavaScript, Arduino,Web Development & etc**
 - 🎯 Setting the Goal :**Build a full-stack project & explore AI**
