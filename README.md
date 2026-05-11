@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Alen!
 <p align="center">
- <img src="https://tenor.com/view/kiss-gold-medal-neymar-international-olympic-committee250days-brazil-thank-god-gif-19174391" width="600px">
+ <img width="440" height="440" alt="kiss-gold-medal-neymar" src="https://github.com/user-attachments/assets/6eced7eb-5137-4796-bf89-d804c8578ecd" />
 </p>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
