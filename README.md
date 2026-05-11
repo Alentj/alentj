@@ -1,17 +1,17 @@
 
 # 👋 Hi, I'm Alen!
 <p align="center">
- <img src="https://github.com/Alentj/alentj/raw/main/aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa.gif" width="600px">
+ <img src="https://tenor.com/view/kiss-gold-medal-neymar-international-olympic-committee250days-brazil-thank-god-gif-19174391" width="600px">
 </p>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### 🚀 Web Developer | IoT Enthusiast | CSE Student
-- 🔭 Working on  **Deepfake Project** 
-- 🔭 Was a part of **Voice-Controlled Wheelchair Project** 
-- 🌱 Learning **JavaScript, Arduino,Web Development & etc**
-- 🎯 Setting the Goal :**Build a full-stack project & explore AI**
+### 🚀 CyberSecurity Enthusiast |Web Developer | IoT |  Final Year CS Student
+- 🔭 Currently looking on new projects to work on 
+- 🔭 Diving deep into **Cyber Security** 
+- 🌱 Learning **AI & ML,**
+- 🎯 Setting the Goal :**Explore the field of Security and Cloud Computing **
 - 💬 Ask me about **Arduino, Web Dev & IoT Projects**
 
 ### 📫 Connect with me:
