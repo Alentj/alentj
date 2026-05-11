@@ -6,6 +6,8 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=50C878&size=30&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Web+Developer;Full+Stack+Learner;Arduino+Projects;Final+Yr+B.Tech+CSE+Student;Builder)](https://git.io/typing-svg)
+
 
 ### 🚀 CyberSecurity Enthusiast |Web Developer | IoT |  Final Year CS Student
 - 🔭 Currently looking on new projects to work on 
@@ -23,7 +25,8 @@
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 ### 📊 GitHub Stats:
-![Alen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alentj&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alentj&show_icons=true&theme=tokyonight)
+       
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alentj&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alentj&theme=tokyonight)
 ### 🛠️ Learned:
@@ -31,4 +34,14 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
 
